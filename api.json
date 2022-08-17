@@ -1,0 +1,39 @@
+[
+    {   "id": 1, 
+        "nombre": "tres leche", 
+        "desc": "Bizcochuelo húmedo en tres leches (leche condensada, leche evaporada, crema de leche), con un toque de licor y canela, decorada con merengue italiano y cerezas",
+        "precio": {"mediana": 2500, "grande": 3200},
+        "img": "./img/productos/dulcedeleche1.jpg"
+    },
+    {   "id": 2, 
+        "nombre": "red velvet",   
+        "desc": "Esta torta es para los que no son tan amantes del chocolate, su sabor es entre vainilla y chocolate suave, con triple relleno de crema de queso y cobertura de buttercream con chocolate blanco",
+        "precio": {"mediana": 4300, "grande": 6000},
+        "img": "./img/productos/redvelvet1.jpg"
+    },
+    {   "id": 3, 
+        "nombre": "triple Chocolate",   
+        "desc": "Torta húmeda de chocolate, triple relleno de ganache de chocolate, cobertura de buttercream de chocolate semiamargo, drip y ferreros",
+        "precio": {"mediana": 5200, "grande": 7000},
+        "img": "./img/productos/triplechocolate2.jpg"
+    },
+    {   "id": 4, 
+        "nombre": "matilda",   
+        "desc": "Torta de chocolate súper húmeda con triple relleno y cobertura de ganache de chocolate semiamargo",
+        "precio": {"mediana": 2800, "grande": 4500},
+        "img": "./img/productos/matilda.jpg"
+    },
+    {   "id": 5, 
+        "nombre": "drip cake",   
+        "desc": "Torta de vainilla, triple relleno de dulce de leche",
+        "precio": {"mediana": 3600, "grande": 5400},
+        "img": "./img/productos/dripCake.jpg"
+    },
+    {   "id": 6, 
+        "nombre": "torta de vainilla",   
+        "desc": "Mega torta de vainilla acompañada de mini brownies, rellena de crema oreo",
+        "precio": {"mediana": 5500, "grande": 7300},
+        "img": "./img/productos/vainilla-mini-brownie.jpg"
+    }
+
+]
